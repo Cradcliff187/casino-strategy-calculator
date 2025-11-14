@@ -44,6 +44,10 @@ git push -u origin main
 8. Wait 2-3 minutes for build to complete
 9. Your site will be live at: `https://random-name-123.netlify.app`
 
+**✅ Successfully Deployed!**
+
+Live site: **[https://casino-strategy-app.netlify.app/](https://casino-strategy-app.netlify.app/)**
+
 ### Option B: Deploy via Netlify CLI
 
 ```bash
@@ -118,6 +122,16 @@ netlify deploy --prod
 # View Netlify status
 netlify status
 ```
+
+---
+
+## ✅ Deployment Status
+
+**Live Site:** [https://casino-strategy-app.netlify.app/](https://casino-strategy-app.netlify.app/)
+
+**Repository:** [https://github.com/Cradcliff187/casino-strategy-calculator](https://github.com/Cradcliff187/casino-strategy-calculator)
+
+**Status:** ✅ Successfully deployed and live!
 
 ---
 

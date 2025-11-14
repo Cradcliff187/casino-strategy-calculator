@@ -2,6 +2,12 @@
 
 A premium, lightning-fast casino strategy calculator for 3 Card Poker, Blackjack, and Video Poker (Jacks or Better).
 
+## 🌐 Live Site
+
+**👉 [https://casino-strategy-app.netlify.app/](https://casino-strategy-app.netlify.app/)**
+
+Try it now! Select cards visually, use keyboard shortcuts, and get instant optimal play decisions.
+
 ## Features
 
 - **Visual Card Selection** - Click cards instead of dropdowns (50% faster!)
@@ -41,10 +47,14 @@ npm run preview
 
 ## Deployment
 
-This app is configured for Netlify deployment. The `netlify.toml` file includes:
+**Live Site:** [https://casino-strategy-app.netlify.app/](https://casino-strategy-app.netlify.app/)
+
+This app is deployed on Netlify and configured via `netlify.toml`:
 - Build command: `npm run build`
 - Publish directory: `dist`
 - SPA redirect rules
+
+**Repository:** [https://github.com/Cradcliff187/casino-strategy-calculator](https://github.com/Cradcliff187/casino-strategy-calculator)
 
 ## Tech Stack
 
